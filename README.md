@@ -18,7 +18,7 @@ To access Shunze Zheng's card, simply click the button below:
 
 [<kbd> <br> Visit My Card <br> </kbd>][Link]
 
-[Link]: index.html
+[Link]: https://zhengshunze.github.io/card.github.io
 
 
 ## Dynamic Rendering with WOW.js
